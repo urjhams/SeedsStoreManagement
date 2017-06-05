@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="STHGDataSet13" targetNamespace="http://tempuri.org/STHGDataSet13.xsd" xmlns:mstns="http://tempuri.org/STHGDataSet13.xsd" xmlns="http://tempuri.org/STHGDataSet13.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="STHGConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="STHGConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.SieuThiHatGiong_DA.Properties.Settings.GlobalReference.Default.STHGConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="v_nhacungcapTableAdapter" GeneratorDataComponentClassName="v_nhacungcapTableAdapter" Name="v_nhacungcap" UserDataComponentName="v_nhacungcapTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="STHGConnectionString (Settings)" DbObjectName="STHG.dbo.v_nhacungcap" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT [Mã nhà cung cấp], [Tên nhà cung cấp] FROM dbo.v_nhacungcap</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Mã nhà cung cấp" DataSetColumn="Mã nhà cung cấp" />
+              <Mapping SourceColumn="Tên nhà cung cấp" DataSetColumn="Tên nhà cung cấp" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="STHGDataSet13" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="STHGDataSet13" msprop:Generator_UserDSName="STHGDataSet13">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="v_nhacungcap" msprop:Generator_TableClassName="v_nhacungcapDataTable" msprop:Generator_TableVarName="tablev_nhacungcap" msprop:Generator_TablePropName="v_nhacungcap" msprop:Generator_RowDeletingName="v_nhacungcapRowDeleting" msprop:Generator_RowChangingName="v_nhacungcapRowChanging" msprop:Generator_RowEvHandlerName="v_nhacungcapRowChangeEventHandler" msprop:Generator_RowDeletedName="v_nhacungcapRowDeleted" msprop:Generator_UserTableName="v_nhacungcap" msprop:Generator_RowChangedName="v_nhacungcapRowChanged" msprop:Generator_RowEvArgName="v_nhacungcapRowChangeEvent" msprop:Generator_RowClassName="v_nhacungcapRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Mã_x0020_nhà_x0020_cung_x0020_cấp" msprop:Generator_ColumnVarNameInTable="columnMã_nhà_cung_cấp" msprop:Generator_ColumnPropNameInRow="Mã_nhà_cung_cấp" msprop:Generator_ColumnPropNameInTable="Mã_nhà_cung_cấpColumn" msprop:Generator_UserColumnName="Mã nhà cung cấp">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Tên_x0020_nhà_x0020_cung_x0020_cấp" msprop:Generator_ColumnVarNameInTable="columnTên_nhà_cung_cấp" msprop:Generator_ColumnPropNameInRow="Tên_nhà_cung_cấp" msprop:Generator_ColumnPropNameInTable="Tên_nhà_cung_cấpColumn" msprop:Generator_UserColumnName="Tên nhà cung cấp" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:v_nhacungcap" />
+      <xs:field xpath="mstns:Mã_x0020_nhà_x0020_cung_x0020_cấp" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,69 @@
+c:\users\urjha\onedrive\tài liệu\visual studio 2012\Projects\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\SieuThiHatGiong_DA.exe.config
+C:\Users\urjha\onedrive\tài liệu\visual studio 2012\Projects\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\SieuThiHatGiong_DA.exe
+C:\Users\urjha\onedrive\tài liệu\visual studio 2012\Projects\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\SieuThiHatGiong_DA.pdb
+C:\Users\urjha\onedrive\tài liệu\visual studio 2012\Projects\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\MetroFramework.dll
+C:\Users\urjha\onedrive\tài liệu\visual studio 2012\Projects\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\urjha\onedrive\tài liệu\visual studio 2012\Projects\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.csprojResolveAssemblyReference.cache
+C:\Users\urjha\onedrive\tài liệu\visual studio 2012\Projects\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.Form1.resources
+C:\Users\urjha\onedrive\tài liệu\visual studio 2012\Projects\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.Properties.Resources.resources
+C:\Users\urjha\onedrive\tài liệu\visual studio 2012\Projects\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.csproj.GenerateResource.Cache
+C:\Users\urjha\onedrive\tài liệu\visual studio 2012\Projects\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.exe
+C:\Users\urjha\onedrive\tài liệu\visual studio 2012\Projects\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.pdb
+C:\Users\urjha\onedrive\tài liệu\visual studio 2012\Projects\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.mainForm.resources
+C:\Users\kin\OneDrive\Tài liệu\Visual Studio 2012\Projects\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\SieuThiHatGiong_DA.exe.config
+C:\Users\kin\OneDrive\Tài liệu\Visual Studio 2012\Projects\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.exe
+C:\Users\kin\OneDrive\Tài liệu\Visual Studio 2012\Projects\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.pdb
+C:\Users\kin\OneDrive\Tài liệu\Visual Studio 2012\Projects\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\SieuThiHatGiong_DA.exe
+C:\Users\kin\OneDrive\Tài liệu\Visual Studio 2012\Projects\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\SieuThiHatGiong_DA.pdb
+C:\Users\kin\OneDrive\Tài liệu\Visual Studio 2012\Projects\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\MetroFramework.dll
+C:\Users\kin\OneDrive\Tài liệu\Visual Studio 2012\Projects\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\kin\OneDrive\Tài liệu\Visual Studio 2012\Projects\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.csprojResolveAssemblyReference.cache
+C:\Users\kin\OneDrive\Tài liệu\Visual Studio 2012\Projects\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.Form1.resources
+C:\Users\kin\OneDrive\Tài liệu\Visual Studio 2012\Projects\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.mainForm.resources
+C:\Users\kin\OneDrive\Tài liệu\Visual Studio 2012\Projects\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.Properties.Resources.resources
+C:\Users\kin\OneDrive\Tài liệu\Visual Studio 2012\Projects\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.csproj.GenerateResource.Cache
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\SieuThiHatGiong_DA.exe.config
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.exe
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.pdb
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\SieuThiHatGiong_DA.exe
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\SieuThiHatGiong_DA.pdb
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\MetroFramework.dll
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\MetroFramework.Fonts.dll
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.csprojResolveAssemblyReference.cache
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.Form1.resources
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.mainForm.resources
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.Properties.Resources.resources
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.csproj.GenerateResource.Cache
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.FormHDon.resources
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.FormPN.resources
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.FormSuaHD.resources
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\CrystalDecisions.Shared.dll
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\stdole.dll
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.FormSuaPN.resources
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\FlashControlV71.dll
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\bin\Debug\ShockwaveFlashObjects.dll
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.FormRPHD.resources
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.FormViewerHD.resources
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.FormRPPN.resources
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.FormRPHB.resources
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.FormRPHN.resources
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.FormRPHT.resources
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.FormRPDT.resources
+D:\SieuThiHatGiong_DA\SieuThiHatGiong_DA\obj\Debug\SieuThiHatGiong_DA.FormDMK.resources

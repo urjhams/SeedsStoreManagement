@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="STHGDataSet2" targetNamespace="http://tempuri.org/STHGDataSet2.xsd" xmlns:mstns="http://tempuri.org/STHGDataSet2.xsd" xmlns="http://tempuri.org/STHGDataSet2.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="STHGConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="STHGConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.SieuThiHatGiong_DA.Properties.Settings.GlobalReference.Default.STHGConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="v_hatgiongTableAdapter" GeneratorDataComponentClassName="v_hatgiongTableAdapter" Name="v_hatgiong" UserDataComponentName="v_hatgiongTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="STHGConnectionString (Settings)" DbObjectName="STHG.dbo.v_hatgiong" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT [Mã hạt giống], [Nhóm loại hạt giống], [Tên hạt giống], [Mô tả], [Ngày sản xuất], [Hạn sử dụng], [Đơn giá], [Đơn vị tính], [Số lượng] FROM v_hatgiong</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Mã hạt giống" DataSetColumn="Mã hạt giống" />
+              <Mapping SourceColumn="Nhóm loại hạt giống" DataSetColumn="Nhóm loại hạt giống" />
+              <Mapping SourceColumn="Tên hạt giống" DataSetColumn="Tên hạt giống" />
+              <Mapping SourceColumn="Mô tả" DataSetColumn="Mô tả" />
+              <Mapping SourceColumn="Ngày sản xuất" DataSetColumn="Ngày sản xuất" />
+              <Mapping SourceColumn="Hạn sử dụng" DataSetColumn="Hạn sử dụng" />
+              <Mapping SourceColumn="Đơn giá" DataSetColumn="Đơn giá" />
+              <Mapping SourceColumn="Đơn vị tính" DataSetColumn="Đơn vị tính" />
+              <Mapping SourceColumn="Số lượng" DataSetColumn="Số lượng" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="STHGDataSet2" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="STHGDataSet2" msprop:Generator_UserDSName="STHGDataSet2">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="v_hatgiong" msprop:Generator_TableClassName="v_hatgiongDataTable" msprop:Generator_TableVarName="tablev_hatgiong" msprop:Generator_RowChangedName="v_hatgiongRowChanged" msprop:Generator_TablePropName="v_hatgiong" msprop:Generator_RowDeletingName="v_hatgiongRowDeleting" msprop:Generator_RowChangingName="v_hatgiongRowChanging" msprop:Generator_RowEvHandlerName="v_hatgiongRowChangeEventHandler" msprop:Generator_RowDeletedName="v_hatgiongRowDeleted" msprop:Generator_RowClassName="v_hatgiongRow" msprop:Generator_UserTableName="v_hatgiong" msprop:Generator_RowEvArgName="v_hatgiongRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Mã_x0020_hạt_x0020_giống" msprop:Generator_ColumnVarNameInTable="columnMã_hạt_giống" msprop:Generator_ColumnPropNameInRow="Mã_hạt_giống" msprop:Generator_ColumnPropNameInTable="Mã_hạt_giốngColumn" msprop:Generator_UserColumnName="Mã hạt giống">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Nhóm_x0020_loại_x0020_hạt_x0020_giống" msprop:Generator_ColumnVarNameInTable="columnNhóm_loại_hạt_giống" msprop:Generator_ColumnPropNameInRow="Nhóm_loại_hạt_giống" msprop:Generator_ColumnPropNameInTable="Nhóm_loại_hạt_giốngColumn" msprop:Generator_UserColumnName="Nhóm loại hạt giống" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Tên_x0020_hạt_x0020_giống" msprop:Generator_ColumnVarNameInTable="columnTên_hạt_giống" msprop:Generator_ColumnPropNameInRow="Tên_hạt_giống" msprop:Generator_ColumnPropNameInTable="Tên_hạt_giốngColumn" msprop:Generator_UserColumnName="Tên hạt giống" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Mô_x0020_tả" msprop:Generator_ColumnVarNameInTable="columnMô_tả" msprop:Generator_ColumnPropNameInRow="Mô_tả" msprop:Generator_ColumnPropNameInTable="Mô_tảColumn" msprop:Generator_UserColumnName="Mô tả" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Ngày_x0020_sản_x0020_xuất" msprop:Generator_ColumnVarNameInTable="columnNgày_sản_xuất" msprop:Generator_ColumnPropNameInRow="Ngày_sản_xuất" msprop:Generator_ColumnPropNameInTable="Ngày_sản_xuấtColumn" msprop:Generator_UserColumnName="Ngày sản xuất" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Hạn_x0020_sử_x0020_dụng" msprop:Generator_ColumnVarNameInTable="columnHạn_sử_dụng" msprop:Generator_ColumnPropNameInRow="Hạn_sử_dụng" msprop:Generator_ColumnPropNameInTable="Hạn_sử_dụngColumn" msprop:Generator_UserColumnName="Hạn sử dụng" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Đơn_x0020_giá" msprop:Generator_ColumnVarNameInTable="columnĐơn_giá" msprop:Generator_ColumnPropNameInRow="Đơn_giá" msprop:Generator_ColumnPropNameInTable="Đơn_giáColumn" msprop:Generator_UserColumnName="Đơn giá" type="xs:int" minOccurs="0" />
+              <xs:element name="Đơn_x0020_vị_x0020_tính" msprop:Generator_ColumnVarNameInTable="columnĐơn_vị_tính" msprop:Generator_ColumnPropNameInRow="Đơn_vị_tính" msprop:Generator_ColumnPropNameInTable="Đơn_vị_tínhColumn" msprop:Generator_UserColumnName="Đơn vị tính" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Số_x0020_lượng" msprop:Generator_ColumnVarNameInTable="columnSố_lượng" msprop:Generator_ColumnPropNameInRow="Số_lượng" msprop:Generator_ColumnPropNameInTable="Số_lượngColumn" msprop:Generator_UserColumnName="Số lượng" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:v_hatgiong" />
+      <xs:field xpath="mstns:Mã_x0020_hạt_x0020_giống" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

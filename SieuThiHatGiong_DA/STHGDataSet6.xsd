@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="STHGDataSet6" targetNamespace="http://tempuri.org/STHGDataSet6.xsd" xmlns:mstns="http://tempuri.org/STHGDataSet6.xsd" xmlns="http://tempuri.org/STHGDataSet6.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="STHGConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="STHGConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.SieuThiHatGiong_DA.Properties.Settings.GlobalReference.Default.STHGConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="v_tkTableAdapter" GeneratorDataComponentClassName="v_tkTableAdapter" Name="v_tk" UserDataComponentName="v_tkTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="STHGConnectionString (Settings)" DbObjectName="STHG.dbo.v_tk" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT [Tài khoản], [Mật khẩu], Quyền FROM dbo.v_tk</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Tài khoản" DataSetColumn="Tài khoản" />
+              <Mapping SourceColumn="Mật khẩu" DataSetColumn="Mật khẩu" />
+              <Mapping SourceColumn="Quyền" DataSetColumn="Quyền" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="STHGDataSet6" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="STHGDataSet6" msprop:Generator_UserDSName="STHGDataSet6">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="v_tk" msprop:Generator_TableClassName="v_tkDataTable" msprop:Generator_TableVarName="tablev_tk" msprop:Generator_TablePropName="v_tk" msprop:Generator_RowDeletingName="v_tkRowDeleting" msprop:Generator_RowChangingName="v_tkRowChanging" msprop:Generator_RowEvHandlerName="v_tkRowChangeEventHandler" msprop:Generator_RowDeletedName="v_tkRowDeleted" msprop:Generator_UserTableName="v_tk" msprop:Generator_RowChangedName="v_tkRowChanged" msprop:Generator_RowEvArgName="v_tkRowChangeEvent" msprop:Generator_RowClassName="v_tkRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Tài_x0020_khoản" msprop:Generator_ColumnVarNameInTable="columnTài_khoản" msprop:Generator_ColumnPropNameInRow="Tài_khoản" msprop:Generator_ColumnPropNameInTable="Tài_khoảnColumn" msprop:Generator_UserColumnName="Tài khoản">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Mật_x0020_khẩu" msprop:Generator_ColumnVarNameInTable="columnMật_khẩu" msprop:Generator_ColumnPropNameInRow="Mật_khẩu" msprop:Generator_ColumnPropNameInTable="Mật_khẩuColumn" msprop:Generator_UserColumnName="Mật khẩu" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Quyền" msprop:Generator_ColumnVarNameInTable="columnQuyền" msprop:Generator_ColumnPropNameInRow="Quyền" msprop:Generator_ColumnPropNameInTable="QuyềnColumn" msprop:Generator_UserColumnName="Quyền" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:v_tk" />
+      <xs:field xpath="mstns:Tài_x0020_khoản" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
